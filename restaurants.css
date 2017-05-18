@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: mediumturquoise;
+  color: white;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+#header-statement {
+  text-align: center;
+}
+
+#hero {
+  width: 100%;
+  height: 450px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttC_I8Rhe5oEdu60ztGxiTbRqY6u9HXuYn7KoPOsUpxNe4yJ-);
+}
+.page-row {
+  width: 100%;
+  clear: both;
+  padding: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.card {
+  width: 20%;
+  height: 320px;
+  margin: 2.5%;
+  padding-top: 16%;
+  float: left;
+  background-color: white;
+  text-align: center;
+  color: black;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+#mimi {
+  background-image: url(https://static1.squarespace.com/static/5791667837c58183ca13e464/t/5793d991c534a514ed13a2aa/1469307376269/?format=1500w);
+}
+
+#pintroom {
+  background-image: url(https://scontent.xx.fbcdn.net/v/t1.0-1/c0.0.200.200/p200x200/10155571_654003174636665_920533976_n.jpg?oh=eb1bfbae7ccdd73c55c96fe6be4a353a&oe=59BB23CC);
+}
+#jamaican {
+  background-image: url(http://static1.squarespace.com/static/54e78c74e4b0a4a2246be378/t/55263560e4b0cd08f77216e1/1491221857915/?format=1500w);
+}
+#yats {
+  background-image: url(http://dallas111.arvixeshared.com/~yats/wp/wp-content/uploads/2016/09/mainlogo.png);
+}
+
+.card h3 {
+color: mediumturquoise;
+font-size: 20px;
+font-family: verdana;
+text-shadow: black;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 100%;
+  font-family: verdana;
+}
+
+
+tr, td, th {
+  border: 2px solid black;
+}
+
+
+th {
+  background-color: black;
+  color: white;
+}
